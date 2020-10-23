@@ -5,7 +5,7 @@ I love improving myself day by day, learning new and modern stuff about Android 
 
 [![Email mdismayilov](https://img.shields.io/badge/Email-murad.ismaylov.97@gmail.com-red?style=for-the-badge)](mailto:murad.ismaylov.97@gmail.com)
 <br>
-[![Linkedin mdismayilov](https://img.shields.io/badge/Linkedin-@mdismayilov-red?style=for-the-badge)](https://www.linkedin.com/in/mdismayilov/)
+[![Linkedin mdismayilov](https://img.shields.io/badge/Linkedin-@mdismayilov-blue?style=for-the-badge)](https://www.linkedin.com/in/mdismayilov/)
 [![Instagram martiandeveloper](https://img.shields.io/badge/Instagram-@martiandeveloper-red?style=for-the-badge)](https://www.instagram.com/martiandeveloper/)
 [![Facebook martiandeveloper](https://img.shields.io/badge/Facebook-@martiandeveloper-red?style=for-the-badge)](https://www.facebook.com/martiandeveloper/)
 [![Udemy MuradIsmayilov](https://img.shields.io/badge/Udemy-@MuradIsmayilov-red?style=for-the-badge)](https://www.udemy.com/user/murad-ismayilov-2/)

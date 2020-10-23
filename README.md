@@ -21,16 +21,15 @@ I create Android apps based on wanted designs and functionalities. I turn ideas 
 
 ```kotlin
 object Murad {
- val name = "Murad Ismayilov"
- val profession = "Android App Development"
+    val name = "Murad Ismayilov"
+    val profession = "Android App Development"
  
- val primarySkillset = "Android"
- val languages = listOf("Kotlin", "Java")
+    val primarySkillset = "Android"
+    val languages = listOf("Kotlin", "Java")
 
- val contact = "@mdismayilov".apply {
-  instagram = this
-  linkedin = this
-  twitter = this
- }
- 
+    val contact = "@mdismayilov".apply {
+        instagram = this
+        linkedin = this
+        twitter = this
+}
 ```

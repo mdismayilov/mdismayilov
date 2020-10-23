@@ -31,5 +31,6 @@ object Murad {
         instagram = this
         linkedin = this
         twitter = this
+    }
 }
 ```

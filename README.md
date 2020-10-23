@@ -1,5 +1,5 @@
 ## Murad Ismayilov - @mdismayilov
-### Hi there 👋
+### Hi there 👋🏻
 
 I create Android apps based on wanted designs and functionalities. I turn ideas into fast, modern Android apps.
 

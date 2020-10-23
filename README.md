@@ -4,6 +4,7 @@
 I love improving myself day by day, learning new and modern stuff about Android development.
 
 [![Email mdismayilov](https://img.shields.io/badge/Email-murad.ismaylov.97@gmail.com-red?style=for-the-badge)](mailto:murad.ismaylov.97@gmail.com)
+[![Email mdismayilov](https://img.shields.io/badge/Email-app.martiandeveloper@gmail.com-red?style=for-the-badge)](mailto:app.martiandeveloper@gmail.com)
 <br>
 [![Linkedin mdismayilov](https://img.shields.io/badge/Linkedin-@mdismayilov-blue?style=for-the-badge)](https://www.linkedin.com/in/mdismayilov/)
 [![Instagram martiandeveloper](https://img.shields.io/badge/Instagram-@martiandeveloper-red?style=for-the-badge)](https://www.instagram.com/martiandeveloper/)

@@ -17,7 +17,9 @@ I create Android apps based on wanted designs and functionalities. I turn ideas 
 <br>
 [![Upwork MuradIsmayilov](https://img.shields.io/badge/Upwork-MuradIsmayilov-green?style=for-the-badge)](https://www.upwork.com/o/profiles/users/~0175bd3ba910cc6a7c/)
 <br>
-[![Youtube MuradIsmayilov](https://img.shields.io/badge/Youtube-@MuradIsmayilov-red?style=for-the-badge)](https://www.youtube.com/channel/UCZlLDhPlAO0IZ5MDGFlY9LA/ )
+[![Youtube MuradIsmayilov](https://img.shields.io/badge/Youtube-@MuradIsmayilov-red?style=for-the-badge)](https://www.youtube.com/channel/UCZlLDhPlAO0IZ5MDGFlY9LA/)
+<br>
+[![Google Play Store MartianDeveloper](https://img.shields.io/badge/GooglePlayStore-@MartianDeveloper-purple?style=for-the-badge)](https://play.google.com/store/apps/dev?id=7022223219596697913)
 
 ```kotlin
 object Murad {
